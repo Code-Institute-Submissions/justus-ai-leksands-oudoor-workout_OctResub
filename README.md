@@ -6,32 +6,32 @@ A great oncentive os there is no gym memebership and the abilty to work out in t
 The abilty to use things you already own or already built out in the forest as excercise tools
 Body weight as the primay excercise tool 
 
-website featurees
-#Navigation bar
+website features
+# Navigation bar
 
-##HOME PAGE
+## HOME PAGE
 logo :image of a man /woman doing situps with a towel as an anchor ove the door and a leksands outdoor gym
 catch phrase :leksands outdoor workout:
 why workourt outside ?
-1.fresh air 
-2.save on gym mebership
-3.creative and  playful workout routines that can inspire  longevity .
-4. variety is the spice of life ( even thoguh you still want to go tp the gym ln ocassion) , outdoor workouts spice your workout)
-5, no closing times (workout when you can and want )
+#### fresh air 
+#### save on gym mebership
+#### creative and  playful workout routines that can inspire longevity .
+#### variety is the spice of life ( even thoguh you still want to go tp the gym ln ocassion) , outdoor workouts spice your workout)
+#### no closing times (workout when you can and want )
 
-work out routines
- 15 minutes plus cardio  
- 30 minute  routine short cardio 
- 1 hour routine ( optional cardio )
- intermitent 5minute intense and 5 min rest workouts to satisfaction
+### work out routines
+ #### 15 minutes plus cardio  
+ #### 30 minute  routine short cardio 
+ #### 1 hour routine ( optional cardio )
+ #### intermitent 5minute intense and 5 min rest workouts to satisfaction
  
- FOOTER 
+ ### FOOTER 
  social media of  group workouts and times 
  fbacebook, instagram , twitter  and youtube
  
-  GALLERY 
+  ## GALLERY 
    pictures of whatpeople are able to do with their body weight as a result of resilient training:hanstands, muscleup, handwalking etc
-   JOIN US PAGE
+  ## JOIN US PAGE
    first name 
    last name 
     interval training, one hour training , cardio and short trsining (both thirty and 15 minutes)
