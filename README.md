@@ -1,18 +1,19 @@
 # leksands-oudoor-workout
 #Overview/sales pitch
 The goal is to make staying active an enjoyable process while achieving results
-The arget will be the whole body for each workout in a playful and results envoking new style called Hiit home/outdoor work out 
-A great oncentive os there is no gym memebership and the abilty to work out in the comfort of your home  and in the outdoors when the weather allows .
-The abilty to use things you already own or already built out in the forest as excercise tools
+The target will be the whole body for each workout in a playful and results envoking new style called Hiit home/outdoor work out 
+A great inncentive is there is no gym memebership and the abilty to work out in the comfort of your home  and in the outdoors when the weather allows .
+The abilty to use things you already own like your body   and uncomölicated outdoor wooden all weather gyms , pul up bars that are built out in the forest as excercise tools
 Body weight as the primay excercise tool 
 
 website features
 # Navigation bar
 
 ## HOME PAGE
-logo :image of a man /woman doing situps with a towel as an anchor ove the door and a leksands outdoor gym
+logo :image of a man /woman doing situps with a towel as an anchor over the door and a leksands outdoor gym
 catch phrase :leksands outdoor workout:
 why workourt outside ?
+unordered list 
 #### fresh air 
 #### save on gym mebership
 #### creative and  playful workout routines that can inspire longevity .
