@@ -3,33 +3,56 @@
 The goal is to make staying active an enjoyable process while achieving results
 The target will be the whole body for each workout in a playful and results envoking new style called Hiit home/outdoor work out 
 A great inncentive is there is no gym memebership and the abilty to work out in the comfort of your home  and in the outdoors when the weather allows .
-The abilty to use things you already own like your body   and uncomölicated outdoor wooden all weather gyms , pul up bars that are built out in the forest as excercise tools
+The abilty to use things you already own like your body   and uncomplicated outdoor wooden all weather gyms , pull up bars that are built out in the forest as excercise tools
 Body weight as the primay excercise tool 
 
 website features
 # Navigation bar
 
 ## HOME PAGE
-logo :image of a man /woman doing situps with a towel as an anchor over the door and a leksands outdoor gym
+logo :image of a man /woman doing handstand ![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+. background image  of a  leksands outdoor gym(iphone picturetaken by myself)![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 catch phrase :leksands outdoor workout:
-why workourt outside ?
-unordered list 
-#### fresh air 
-#### save on gym mebership
-#### creative and  playful workout routines that can inspire longevity .
-#### variety is the spice of life ( even thoguh you still want to go tp the gym ln ocassion) , outdoor workouts spice your workout)
-#### no closing times (workout when you can and want )
-
-### work out routines
-UNORDERED LIST 
-15 minutes routine medium cardio
- 30 minute routine short cardio 
- 1 hour routine ( optional cardio )
- intermitent 5 minute intense and 5 min rest workouts to satisfaction(LIMITLESS TIME)
+###why workourt outside ?
  
+* fresh air 
+* save on gym mebership
+* creative and  playful workout routines that can inspire longevity .
+* no closing times (workout when you can and want )
  ### FOOTER 
  social media of  group workouts and times 
- fbacebook, instagram , twitter  and youtube
+ faceebook, instagram , twitter  and youtube
+##ABOUT
+varity is the spice of life , so even if you still want to go to the gym, these wrorouts enrich your growth
+### work out routines
+UNORDERED LIST 
+ * 15 minutes routine medium cardio 8 repetitions
+ ###### 15 secs pressupps and 15 seconds rest 
+ ###### 15 secs sitsups and 15 secs rest 
+ ###### 15 sec squats and 15 secs rest 
+ ###### 15 seconds burpees and 15 seconds rest 
+ ###### sprint home or slow jog home
+ * 30 minute routine | 8- repetitons
+ ###### 30 secs pressupps| 20 secods rest | 10 secs active rest(leg raises) 
+ ###### 30 secs sitsups and 20 secs rest | 10 sec active rest (high knee taps)
+ ###### 30 sec squats and 20 secs rest   | 10 secs active rest (press ups)
+ ###### 30 secs burpees and 20 seconds rest |10 secs active rest (jumping  jacks)
+ ###### slow jog  while taking the long route back home.
+ * 1 hour routine | 8-10 repetitions
+  ###### 1 min pressupps and 30 secods rest | 30 secs active rest ( slow burpees/jump rope )
+ ###### 30 secs sitsups and 30 secs rest | 30 secs  active rest (slow high kneee taps )
+ ###### 30 sec squats and 30 secs rest | 30 secs active rest ( slow leg raises )
+ ###### 30 seconds burpees and 30 seconds rest | 30 secs (slow jumping jacks )
+ ###### cardio is optional at this point or a brisk walk home 
+ 
+ #* intermitent 5 minute intense and 5 min rest workouts to satisfaction(LIMITLESS TIME)
+ ###### Could better work as a roup activity from twp people to more: In thos case vvariations based on each others 
+ input can contrbte to a more complete workout.
+ 
+ ### FOOTER 
+ facebook, instagram , twitter youtube
  
   ## ABOUT GALLERY 
    pictures of what people are able to do with their body weight as a result of resilient training:hanstands, muscleup, handwalking etc
