@@ -7,8 +7,7 @@ The abilty to use things you already own like your body   and uncomplicated outd
 Body weight as the primay excercise tool 
 
 website features
-# Navigation bar
-
+# Navigation bar       
 ## HOME PAGE
 logo :image of a man /woman doing handstand ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
@@ -47,8 +46,8 @@ UNORDERED LIST
  ###### 30 seconds burpees and 30 seconds rest | 30 secs (slow jumping jacks )
  ###### cardio is optional at this point or a brisk walk home 
  
- #* intermitent 5 minute intense and 5 min rest workouts to satisfaction(LIMITLESS TIME)
- ###### Could better work as a roup activity from twp people to more: In thos case vvariations based on each others 
+ * Limitless time | intermitent 5 minute intense and 5 min rest workouts to satisfaction
+ ###### Could better work as a group activity from twp people to more: In thos case vvariations based on each others 
  input can contrbte to a more complete workout.
  
  ### FOOTER 
@@ -88,7 +87,9 @@ The live link can be found here - https://code-institute-org.github.io/love-runn
    
  
  #CREDITS
- The structure of the webiste was inspired by thw love rinnoing website created throgh code isntititutes tutorials.
+ The structure of the webiste was inspired by the love rinnoing website created through code institute's tutorials.
+ The background image  Photo by <a href="https://unsplash.com/@imatbagjagumilar?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Imat Bagja Gumilar</a> on <a href="https://unsplash.com/s/photos/forest?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 Instructions on how to implement form validation on the Sign Up page was taken from Specific YouTube Tutorial
 The icons in the footer were taken from Font Awesome
 Media
