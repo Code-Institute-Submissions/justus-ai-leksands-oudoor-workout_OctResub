@@ -1,11 +1,12 @@
 # leksands-oudoor-workout
-#Overview/sales pitch
+## SALES PITCH
 The goal is to make staying active an enjoyable process while achieving results
 The target will be the whole body for each workout in a playful and results envoking new style called Hiit home/outdoor work out 
 A great inncentive is there is no gym memebership and the abilty to work out in the comfort of your home  and in the outdoors when the weather allows .
-The abilty to use things you already own like your body   and uncomplicated outdoor wooden all weather gyms , pull up bars that are built out in the forest as excercise tools
+The abilty to use things you already own like your body   and uncomplicated outdoor wooden all weather gym , pull up bars.
 Body weight as the primay excercise tool 
-
+font types to be sused in the website will be 
+@import url('https://fonts.googleapis.com/css2?family=Mate+SC&display=swap') and Exo
 website features
 # Navigation bar       
 ## HOME PAGE
@@ -20,6 +21,13 @@ catch phrase :leksands outdoor workout:
 * save on gym mebership
 * creative and  playful workout routines that can inspire longevity .
 * no closing times (workout when you can and want )
+ ## blockquote (quotes from customer feedback)
+                1.These excercises have helped me realise my otherwise elusive workout goals!( image from unsplash ![pedro-araujo-j1G32s6pvR8-unsplash](https://user-images.githubusercontent.com/83753891/121804586-64c04a80-cc47-11eb-802e-5e0f2e1b5485.jpg)
+2.How simple yet effective!my love for the outdoors is a gift that keeps on giving.(image from unsplush)![emma-simpson-mNGaaLeWEp0-unsplash](https://user-images.githubusercontent.com/83753891/121804604-7dc8fb80-cc47-11eb-9202-f27ef9437b05.jpg)
+3.Now i have no excuses for not working out even when all is closed down during the corona pandemic :)(image from unsplush)![aaron-thomas-bjcFY1Q-y0c-unsplash](https://user-images.githubusercontent.com/83753891/121804670-def0cf00-cc47-11eb-95b4-33e9f3babf3f.jpg)
+
+
+            
  ### FOOTER 
  social media of  group workouts and times 
  faceebook, instagram , twitter  and youtube
