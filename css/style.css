@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Mate+SC&display=swap::100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+#forest-image {
+    height: 600px;
+    width: 100%;
+    background-image: url("../images/forest.jpg") no-repeat center center;
+  }
+header {
+    margin: 0;
+}
+.logo {
+    background: url("../images/handstand.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+}
