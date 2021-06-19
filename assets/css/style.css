@@ -1,0 +1,73 @@
+
+body { 
+    font-family:"Fraunces", sans-serif ;   
+
+}
+  /* navbar*/
+  .menu-container  {
+    
+      color:whitesmoke;
+
+}
+.navbar  {
+    margin-bottom: 0;
+    background-color:(0,0,0,0.95);
+
+
+}
+.reasons-container {
+    background: url("../images/forest.jpg") no-repeat bottom right fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    position: relative;
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+    justify-content: center;
+color: whitesmoke;
+}
+.quotes-container {
+    color:whitesmoke;
+    background-color: black;
+    font-weight: 400;
+font-size: small;
+    
+}
+.social-media-container { 
+    
+}
+}
+.social-links {
+    padding-bottom: 1px;
+}
+
+.social-links li a i {
+    width: 32px;
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 13px;
+    line-height: 7px;
+    text-align: center;
+    color: #fafafa;
+    background: #8f8f8f;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover {
+    background: #e84610;
+}
+/*jumbotron*/
+.jumbotron-header {
+color:white ;
+margin-bottom: 50px;
+}
+.jumbotron p  {
+    color:rgb(197, 224, 211) ;
+    margin-bottom: 50px;
+    }
