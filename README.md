@@ -55,7 +55,7 @@ UNORDERED LIST
  ###### cardio is optional at this point or a brisk walk home 
  
  * Limitless time | intermitent 5 minute intense and 5 min rest workouts to satisfaction
- ###### Could better work as a group activity from twp people to more: In this case,variations 
+ ###### Could better work as a group activity from two  to more people: In this case,variations 
  based on interactions can contribute to a creative work out ideas from others  
 
  
