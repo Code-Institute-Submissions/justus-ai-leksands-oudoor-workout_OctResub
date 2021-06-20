@@ -3,16 +3,15 @@ body {
     font-family:"Fraunces", sans-serif ;   
 
 }
+/* Containers */
   /* navbar*/
   .menu-container  {
-    
+    background-size: cover;
       color:whitesmoke;
-
 }
-.navbar  {
-    margin-bottom: 0;
-    background-color:(0,0,0,0.95);
-
+.navbar {
+background-color: black;
+position:relative;
 
 }
 .reasons-container {
@@ -27,6 +26,7 @@ body {
     min-height: 100vh;
     justify-content: center;
 color: whitesmoke;
+margin-top: 0px;
 }
 .quotes-container {
     color:whitesmoke;
@@ -36,11 +36,25 @@ font-size: small;
     
 }
 .social-media-container { 
+    display: flex;
+    align-items: center;
+    justify-content: center;
     
 }
+hr {
+    margin: 0;
+    border: 0;
+    
+}
+hr:not([size]) {
+ height: 0;
 }
 .social-links {
     padding-bottom: 1px;
+}
+.page-header {
+    margin-bottom: 0;
+    border-bottom: 0;
 }
 
 .social-links li a i {
@@ -57,6 +71,7 @@ font-size: small;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
     -o-transition: all 0.35s ease-in-out;
+
 }
 
 .social-links li a i:hover {
@@ -65,9 +80,9 @@ font-size: small;
 /*jumbotron*/
 .jumbotron-header {
 color:white ;
-margin-bottom: 50px;
+margin-bottom:20px;
 }
 .jumbotron p  {
     color:rgb(197, 224, 211) ;
-    margin-bottom: 50px;
+    margin-bottom:50px;
     }
