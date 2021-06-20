@@ -15,7 +15,7 @@ Format: ![Alt Text](url)
 . background image  of a  leksands outdoor gym(iphone picturetaken by myself)![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 catch phrase :leksands outdoor workout:
-###why workourt outside ?
+##why workourt outside ?
  
 * fresh air 
 * save on gym mebership
@@ -35,7 +35,7 @@ catch phrase :leksands outdoor workout:
 varity is the spice of life , so even if you still want to go to the gym, these wrorouts enrich your growth
 ### work out routines
 UNORDERED LIST 
- * 15 minutes routine medium cardio 8 repetitions
+ * 15 minutes routine| medium cardio |8 repetitions
  ###### 15 secs pressupps and 15 seconds rest 
  ###### 15 secs sitsups and 15 secs rest 
  ###### 15 sec squats and 15 secs rest 
