@@ -85,7 +85,7 @@ UNORDERED LIST
    ### html YTESTED THROW W3C VALIDATOR
    ###CSSS TESTING THOUGH JUGSAW VALIDATOR
    ##UNFIXED BUGS
-   #EPLOYMENT
+   #DEPLOYMENT
  This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
 
 The site was deployed to GitHub pages. The steps to deploy are as follows:
