@@ -4,7 +4,7 @@ body {
 
 }
 /* Containers */
-  /* navbar*/
+  
   .menu-container  {
     background-size: cover;
       color:whitesmoke;
@@ -37,25 +37,16 @@ font-size: small;
     
 }
 .social-media-container { 
-    display: flex;
     align-items: center;
+    display: flex;
     justify-content: center;
+
     
 }
-hr {
-    margin: 0;
-    border: 0;
-    
-}
-hr:not([size]) {
- height: 0;
-}
+
+
 .social-links {
     padding-bottom: 1px;
-}
-.page-header {
-    margin-bottom: 0;
-    border-bottom: 0;
 }
 
 .social-links li a i {
@@ -105,7 +96,6 @@ margin-bottom:20px;
     margin-bottom:20px;
     
 }
-/* navigation links */
 .text-input {
 background:transparent;
 color:#fafafa;
@@ -133,7 +123,7 @@ border-radius:2px;
     background-color:#fafafa;
     color: #e84610;
 }
-/* Form */
+/* join the movement Form */
 
 .form-section {
   clear: left;
