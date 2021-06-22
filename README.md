@@ -79,29 +79,32 @@ UNORDERED LIST
    ##FEATURE LEFT TO IMPLEMENT 
    ##TESTING
    #VALIDATING TESTING
-   ### html YTESTED THROW W3C VALIDATOR
+   ### html TESTED THROW W3C VALIDATOR
+   tested throgh wrc validot and saw that i had to add the en language to the top of the tml link.
+   
    ###CSSS TESTING THOUGH JUGSAW VALIDATOR
    ##UNFIXED BUGS
+   
    #DEPLOYMENT
+   This project was developed using gitpod. in the hosting platform of github
+   to eploy this page to github pages, the following steps were taken:
+   1.log into github,fom the list of the repositories, select https://orange-capybara-2xrrdpq3.ws-eu08.gitpod.io/
+   2.from the menu item at the top of the page press settings,
+   3.scroll down to the guthub pages section
+   4.under source, click the dropdown menu labelled none and select master banch.
+   5.on selecting master branch, the page is automatically refreshed m the website is now deployed
+   6.scroll back down to github pages to retriee the link to the deployed pages.
+   
  This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
 
-The site was deployed to GitHub pages. The steps to deploy are as follows:
-In the GitHub repository, navigate to the Settings tab
-From the source section drop-down menu, select the Master Branch
-Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html
-   
+
  
  #CREDITS
- The structure of the webiste was inspired by the love runniing website created through code institute's tutorials.
+ The structure of the webiste was inspired by the love runniing website created through code institute's tutorials.this is becuase my project targets the smame topic of working out .
  The background image  Photo by <a href="https://unsplash.com/@imatbagjagumilar?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Imat Bagja Gumilar</a> on <a href="https://unsplash.com/s/photos/forest?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 Instructions on how to implement form validation on the Sign Up page was taken from the love running website from code institutes instrctionals tutorial, i thought it matched perfeclty whith what my qebsite inteneded to do.
-The icons in the footer were taken from Font Awesome and avarity of tutorials on 
-Media
-The photos used on the home and sign up page are from This Open Source site
-The images used for the gallery page were taken from this other open source site
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer!
+The icons in the footer were taken from Font Awesome and a varity of tutorials on social media advantages being a aprt of my website.
 
 
 .
