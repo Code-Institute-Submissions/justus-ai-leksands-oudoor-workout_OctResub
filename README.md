@@ -1,19 +1,17 @@
 # leksands-oudoor-workout
 ## SALES PITCH
 The goal is to make staying active an enjoyable process while achieving results
-The target will be the whole body for each workout in a playful and results envoking new style called Hiit home/outdoor work out 
+The target will be the whole body for each workout in a playful and results envoking new style called Hiit outdoor work out .Al these worouts can be done in the comfort of your home as weell if the waether doesn't allow
 A great inncentive is there is no gym memebership and the abilty to work out in the comfort of your home  and in the outdoors when the weather allows .
-The abilty to use things you already own like your body   and uncomplicated outdoor wooden all weather gym , pull up bars.
+The abilty to use things you already own like your body   and uncomplicated outdoor wooden all weather gym , pull up bars is to help uncomplicate working out.
 Body weight as the primay excercise tool 
-font types to be sused in the website will be 
+font types to be used in the website will be 
 @import url('https://fonts.googleapis.com/css2?family=Mate+SC&display=swap') and Exo
 website features
-# Navigation bar       
+# Navigation bar
+i used the responsinve bootstrap navigation bar because it allows for the menu bar to be reduced and expanded easily depending on the media one is using 
 ## HOME PAGE
-logo :image of a man /woman doing handstand ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-. background image  of a  leksands outdoor gym(iphone picturetaken by myself)![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+logo was t  be self explanatory by using the large background image of a forest with an open space .It should be a that simple to start working out .The large forest image was from unsplash courtesy of steven kamenar.
 catch phrase :leksands outdoor workout:
 ##why workourt outside ?
  
@@ -28,48 +26,47 @@ catch phrase :leksands outdoor workout:
 
 
             
- ### FOOTER 
+ ##footer (social media container )
  social media of  group workouts and times 
  faceebook, instagram , twitter  and youtube
 ##ABOUT
-varity is the spice of life , so even if you still want to go to the gym, these wrorouts enrich your growth
+varity is the spice of life , so even if you still want to go to the gym, these workrouts enrich your growth
 ### work out routines
 UNORDERED LIST 
- * 15 minutes routine| medium cardio |8 repetitions
- ###### 15 secs pressupps and 15 seconds rest 
- ###### 15 secs sitsups and 15 secs rest 
- ###### 15 sec squats and 15 secs rest 
- ###### 15 seconds burpees and 15 seconds rest 
- ###### sprint home or slow jog home
- * 30 minute routine | 8- repetitons
- ###### 30 secs pressupps| 20 secods rest | 10 secs active rest(leg raises) 
- ###### 30 secs sitsups and 20 secs rest | 10 sec active rest (high knee taps)
- ###### 30 sec squats and 20 secs rest   | 10 secs active rest (press ups)
- ###### 30 secs burpees and 20 seconds rest |10 secs active rest (jumping  jacks)
- ###### slow jog  while taking the long route back home.
+ * 15 minutes routine| medium cardio |8 repetitions(quarter battery font awesome icon)
+ 1. 15 secs pressupps and 15 seconds rest 
+ 2. 15 secs sitsups and 15 secs rest 
+ 3. 15 sec squats and 15 secs rest 
+ 4. 15 seconds burpees and 15 seconds rest 
+ 5. sprint home or slow jog home
+ * 30 minute routine | 8- repetitons(halv battery font awesome icon)
+ 1. 30 secs pressupps| 20 secods rest | 10 secs active rest(leg raises) 
+ 2. 30 secs sitsups and 20 secs rest | 10 sec active rest (high knee taps)
+ 3. 30 sec squats and 20 secs rest   | 10 secs active rest (press ups)
+ 4. 30 secs burpees and 20 seconds rest |10 secs active rest (jumping  jacks)
+ 5. slow jog  while taking the long route back home.
  * 1 hour routine | 8-10 repetitions
-  ###### 1 min pressupps and 30 secods rest | 30 secs active rest ( slow burpees/jump rope )
- ###### 30 secs sitsups and 30 secs rest | 30 secs  active rest (slow high kneee taps )
- ###### 30 sec squats and 30 secs rest | 30 secs active rest ( slow leg raises )
- ###### 30 seconds burpees and 30 seconds rest | 30 secs (slow jumping jacks )
- ###### cardio is optional at this point or a brisk walk home 
+  1. 30 secs pressupps and 30 secods rest | 30 secs active rest ( slow burpees/jump rope )(three quarters battery font awesome icon)
+ 2. 30 secs sitsups and 30 secs rest | 30 secs  active rest (slow high kneee taps )
+ 3. 30 sec squats and 30 secs rest | 30 secs active rest ( slow leg raises )
+ 4. 30 seconds burpees and 30 seconds rest | 30 secs (slow jumping jacks )
+ 5. cardio is optional at this point or a brisk walk home 
  
- * Limitless time | intermitent 5 minute intense and 5 min rest workouts to satisfaction
- ###### Could better work as a group activity from two  to more people: In this case,variations 
+ * Limitless time | intermitent 5 minute intense and 5 min rest workouts to satisfaction/( full battery font awesome icon)
+ 1. Could better work as a group activity from two  to more people: In this case,variations 
  based on interactions can contribute to a creative work out ideas from others  
-
+ UX. along with th forest green backgroud , i used bootstrap 5 to enhance the user experience with a dropdown button for each level of workout, Using the battery icon from font awesome . i tried to give the website vistors a visual of how much of your batteey will be worked on depending on which workout you choose.
  
- ### FOOTER 
- facebook, instagram , twitter youtube
+ ##FOOTER 
+ facebook, instagram ,linkedn,pinterest, twitter youtube
  
-  ## ABOUT GALLERY 
-   pictures of what people are able to do with their body weight as a result of resilient training:hanstands, muscleup, handwalking etc
   ## JOIN THE MOVEMENT
    first name 
     last name 
-    interval training, one hour training , cardio and short trAining (both thirty and 15 minutes)
+    15 min training ,30 min, one hour training , cardio  and a limitless training session or traininng to the hardest of your abily on that particular day.
     lets get stronger together!!
-       WIREFRAMES 
+  ##FOOTER 
+ facebook, instagram ,linkedn,pinterest, twitter youtube
    HOME 
    ABOUT /GALLERY 
    JOIN THE MOVEMENT
@@ -96,30 +93,15 @@ The live link can be found here - https://code-institute-org.github.io/love-runn
    
  
  #CREDITS
- The structure of the webiste was inspired by the love rinnoing website created through code institute's tutorials.
+ The structure of the webiste was inspired by the love runniing website created through code institute's tutorials.
  The background image  Photo by <a href="https://unsplash.com/@imatbagjagumilar?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Imat Bagja Gumilar</a> on <a href="https://unsplash.com/s/photos/forest?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
-Instructions on how to implement form validation on the Sign Up page was taken from Specific YouTube Tutorial
-The icons in the footer were taken from Font Awesome
+Instructions on how to implement form validation on the Sign Up page was taken from the love running website from code institutes instrctionals tutorial, i thought it matched perfeclty whith what my qebsite inteneded to do.
+The icons in the footer were taken from Font Awesome and avarity of tutorials on 
 Media
 The photos used on the home and sign up page are from This Open Source site
 The images used for the gallery page were taken from this other open source site
 Congratulations on completing your Readme, you have made another big stride in the direction of being a developer!
 
-Other General Project Advice
-Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work!
 
-One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through this article by Chris Beams on How to Write a Git Commit Message
-
-Make sure to keep the messages in the imperative mood
-When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
-
-For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept.
-Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
-
-Writing Your Best Code
-HTML & CSS Coding Best Practices
-Google HTML/CSS Style Guide
-Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process!
-
-© 2021 GitHub, Inc.
+.
