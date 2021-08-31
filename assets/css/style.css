@@ -31,11 +31,18 @@ margin-top: 0px;
 
 .quotes-container {
     color:whitesmoke;
-    background-color: black;
+    background-color: rgb(34, 34, 34);
     font-weight: 400;
-font-size: small;
-    
+font-size: small; 
+text-align: center;
 }
+  
+  
+  .quotes-container:hover {
+    background-color:#fafafa;
+    color: #e84610;
+  }   
+
 .social-media-container { 
     align-items: center;
     display: flex;
@@ -43,7 +50,6 @@ font-size: small;
 
     
 }
-
 
 .social-links {
     padding-bottom: 1px;
@@ -73,22 +79,29 @@ font-size: small;
 .jumbotron-header {
 color:white ;
 margin-bottom:20px;
+text-align: center;
 }
 .jumbotron p  {
     color:rgb(239, 239, 250) ;
     margin-bottom:50px;
     font-weight: 900;
     font-size: larger;
+    text-align: center;
+
     }
+    .jumbotron p:hover {
+        background-color:#fafafa;
+        color: #e84610;
+      }   
     /*join us*/
     .signup-form
 {
-    margin-top:150px;
+    margin-top: 20px;
     color:#fff;
     background-color:rgba(60, 60, 60, 0.6);
     max-width:400px;
-    position:absolute;
-    left:10%;
+    position:auto;
+    left: 30%;
     padding: 30px;
 }
 .signup-form h2 {
@@ -126,7 +139,7 @@ border-radius:2px;
 /* join the movement Form */
 
 .form-section {
-  clear: left;
+  clear: center;
   background-size: cover;
   background-position: center;
   height: 900px;
