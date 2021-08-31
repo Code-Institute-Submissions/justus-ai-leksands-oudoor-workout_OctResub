@@ -1,29 +1,23 @@
 # leksands-oudoor-workout
 ## SALES PITCH
-The goal is to make staying active an enjoyable process while achieving results
-The target will be the whole body for each workout in a playful and results envoking new style called Hiit outdoor work out .Al these worouts can be done in the comfort of your home as weell if the waether doesn't allow
-A great inncentive is there is no gym memebership and the abilty to work out in the comfort of your home  and in the outdoors when the weather allows .
-The abilty to use things you already own like your body   and uncomplicated outdoor wooden all weather gym , pull up bars is to help uncomplicate working out.
-Body weight as the primay excercise tool 
-font types to be used in the website will be 
-@import url('https://fonts.googleapis.com/css2?family=Mate+SC&display=swap') and Exo
+The goal is to stay active outside the traditional methods.
+The target will be the whole body for each workout in a playful and results envoking new style called Hiit outdoor work out .All these workouts can be done in the comfort of your home if the weather doesn.t allow but better yet outdoor.
+The abilty to use things you already own like yours.
+Body weight as the primay excercise tool .
 website features
 # Navigation bar
-i used the responsinve bootstrap navigation bar because it allows for the menu bar to be reduced and expanded easily depending on the media one is using 
+i used the responsinve bootstrap navigation bar because it allows for the menu bar to be reduced and expanded easily depending on the screen size been used .
 ## HOME PAGE
-logo was t  be self explanatory by using the large background image of a forest with an open space .It should be a that simple to start working out .The large forest image was from unsplash courtesy of steven kamenar.
-catch phrase :leksands outdoor workout:
-##why workourt outside ?
- 
-* fresh air 
-* save on gym mebership
-* creative and  playful workout routines that can inspire longevity .
-* no closing times (workout when you can and want )
- ## blockquote (quotes from customer feedback)
-                1.These excercises have helped me realise my otherwise elusive workout goals!( image from unsplash ![pedro-araujo-j1G32s6pvR8-unsplash](https://user-images.githubusercontent.com/83753891/121804586-64c04a80-cc47-11eb-802e-5e0f2e1b5485.jpg)
-2.How simple yet effective!my love for the outdoors is a gift that keeps on giving.(image from unsplush)![emma-simpson-mNGaaLeWEp0-unsplash](https://user-images.githubusercontent.com/83753891/121804604-7dc8fb80-cc47-11eb-9202-f27ef9437b05.jpg)
-3.Now i have no excuses for not working out even when all is closed down during the corona pandemic :)(image from unsplush)![aaron-thomas-bjcFY1Q-y0c-unsplash](https://user-images.githubusercontent.com/83753891/121804670-def0cf00-cc47-11eb-95b4-33e9f3babf3f.jpg)
+###logo
+logo is a chain link that i put ahead of every h2 on eah of three pages <i class="fas fa-link">
+ I chose it because the chain symbol emphasises the power of connecting dofferent styles t achieve a healthy goal as i am going to illustrate later.
+ Below is how the frst page looks like ,
+ ![Screenshot (317)](https://user-images.githubusercontent.com/83753891/131582824-183c48eb-3d4d-4249-9f39-b69cf4160e6c.png)
 
+1.The format is such that i have all the reasons for working out coming first  ,the quotes and social media where the user can click on whichever media link they are most comfortable with to see what we and our members are about come thereafter in sucessive order.
+ 2.Initially i hade trouble finding text that would be visible against the dark background of the forst picture. So eventually i decided to add  shadow effect with 0.6 opacity to bring out my white text. in my sing up page that i  had code from coced istitutes love running tutorial website, i was able to implement the shadow effect into all my three pages.
+ So at the the beginning of every container tht is a the top of eah page , i added the class of sign-up
+ 3.i added a hover effect along side each reasons for working outline to entice the user while they slide their mouse across the screen.
 
             
  ##footer (social media container )
