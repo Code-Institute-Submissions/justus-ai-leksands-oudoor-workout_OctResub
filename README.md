@@ -20,8 +20,8 @@ my website's logo is a chain link that i put ahead of every h2 on eah of three p
  3.I added a hover effect along side each reasons for working outline to entice the user while they slide their mouse across the screen.
  ### quotes section
 1.I put in a hover features as well that changes the font color to a red color to entice the casual reader to read the testimonies pf people who have tried and succeded with this typ of excercise.
- 2. For smaller screens, I used ![image](https://user-images.githubusercontent.com/83753891/131585501-bd88a614-4b0e-4e4b-9749-574000596488.png)
- bootsrap i changed the visibility of pictures on the small screen  so ust the quote is visible on the viewing height of a mobile screen
+ 2. For smaller screens, I used bootsrap i changed the visibility stting of the two pictures on the quotes ection to n picture but one text on the the small screen  so that the quote is visible on the viewing height of a mobile screen as  in the picture below:
+ ![Screenshot (319)](https://user-images.githubusercontent.com/83753891/131586031-82162eb0-8b85-44cb-9631-2b97b0e76862.png)
 
             
  ##footer (social media container )
