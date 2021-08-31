@@ -8,16 +8,20 @@ website features
 # Navigation bar
 i used the responsinve bootstrap navigation bar because it allows for the menu bar to be reduced and expanded easily depending on the screen size been used .
 ## HOME PAGE
-###logo
-logo is a chain link that i put ahead of every h2 on eah of three pages <i class="fas fa-link">
+### logo
+my website's logo is a chain link that i put ahead of every h2 on eah of three pages <i class="fas fa-link">
  I chose it because the chain symbol emphasises the power of connecting dofferent styles t achieve a healthy goal as i am going to illustrate later.
  Below is how the frst page looks like ,
  ![Screenshot (317)](https://user-images.githubusercontent.com/83753891/131582824-183c48eb-3d4d-4249-9f39-b69cf4160e6c.png)
 
 1.The format is such that i have all the reasons for working out coming first  ,the quotes and social media where the user can click on whichever media link they are most comfortable with to see what we and our members are about come thereafter in sucessive order.
  2.Initially i hade trouble finding text that would be visible against the dark background of the forst picture. So eventually i decided to add  shadow effect with 0.6 opacity to bring out my white text. in my sing up page that i  had code from coced istitutes love running tutorial website, i was able to implement the shadow effect into all my three pages.
- So at the the beginning of every container tht is a the top of eah page , i added the class of sign-up
- 3.i added a hover effect along side each reasons for working outline to entice the user while they slide their mouse across the screen.
+ So at the the beginning of every container section from  the top of eah page , i added the class of sign-up, to keep uniformity
+ 3.I added a hover effect along side each reasons for working outline to entice the user while they slide their mouse across the screen.
+ ### quotes section
+1.I put in a hover features as well that changes the font color to a red color to entice the casual reader to read the testimonies pf people who have tried and succeded with this typ of excercise.
+ 2. For smaller screens, I used ![image](https://user-images.githubusercontent.com/83753891/131585501-bd88a614-4b0e-4e4b-9749-574000596488.png)
+ bootsrap i changed the visibility of pictures on the small screen  so ust the quote is visible on the viewing height of a mobile screen
 
             
  ##footer (social media container )
