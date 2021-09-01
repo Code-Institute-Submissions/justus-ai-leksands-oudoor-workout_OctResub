@@ -52,15 +52,16 @@ border-radius: 35%;
 }
 
 .social-links li a i {
-    width: 32px;
-    height: 32px;
+    width: 45px;
+    height: 45px;
     padding: 12px 0;
     border-radius: 50%;
-    font-size: 13px;
+    font-size: 18px;
     line-height: 7px;
     text-align: center;
     color: #fafafa;
-    background: #8f8f8f;
+    background: #313131;
+    text-shadow: lavender;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
