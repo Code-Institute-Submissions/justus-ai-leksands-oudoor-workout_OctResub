@@ -65,19 +65,19 @@ UNORDERED LIST ( self explanatory)
  the page is also responsive to different screen sizes with the help of bootstrap.
  ![Screenshot (322)](https://user-images.githubusercontent.com/83753891/131587809-4dbb5b7b-cb35-44a1-992b-f25c555a251d.png)
  ### coding challenge 
- i tried to use flex but on closer inspection not all the text was displaying on the mobile phone screen , i had trouble trying to solve this bug .
+ i tried to use flex but on closer inspection not all the text was displaying on the mobile phone screen, I had trouble trying to solve this bug .
  
   # JOIN THE MOVEMENT
 ![Screenshot (324)](https://user-images.githubusercontent.com/83753891/131588066-2beef495-d94a-4d73-b272-9c06a0cdab89.png)
- the abpve is a screenshot of my responsive join webpage , The code is inspired by the love running website  from the tutorials that i thought were very effective  in getting one to join.
- The form is responsive and can only be sent of bothtthe first name, second name and email are entered .
+ The abave is a screenshot of my responsive join webpage. As metioned earlier,the code is inspired by the love running website from the tutorials that i thought were very effective  in getting one to join.
+ The form is responsive and can only be entered succecfuly if the first name, second name and email are ALL entered .
 ![Screenshot (323)](https://user-images.githubusercontent.com/83753891/131588088-0a04345b-8981-46c4-80aa-652548f01dd0.png)
  above the screenshot of how the join pagw would look like ina mobuíle devce .
 
 
    #VALIDATING TESTING
    ### html TESTED THROW W3C VALIDATOR
-   tested throgh wrc validot and saw that i had to add the en language to the top of the tml link.
+   tested throgh wrc validator and saw that i had to add the en language to the top of the tml link.
    
    ###CSSS TESTING THOUGH JUGSAW VALIDATOR
    ##UNFIXED BUGS
