@@ -1,25 +1,25 @@
 # leksands-oudoor-workout
 ## SALES PITCH
 The goal is to stay active outside the traditional methods.
-The target will be the whole body for each workout in a playful and results envoking new style called Hiit inspried by calisthenics .All these workouts can be done in the comfort of your home if the weather doesn't allow but better yet outdoor.
+The target will be the whole body for each workout in a playful and results evoking new style called Hiit(Hight Intensity intervasl workouts ) .All these workouts can be done in the comfort of your home if the weather doesn't allow but better yet outdoor.
 Body weight is the primay excercise tool .
 # Navigation bar
-i used the responsinve bootstrap navigation bar because it allows for the menu bar to be reduced and expanded easily depending on the screen size been used .
-In  a smalller screen it has the hamburger co that makes the text at the top dissappaer and is replaced by the three lines 
+I used the responsive bootstrap navigation bar because it allows for the menu bar to be reduced and expanded easily depending on the screen size being used .
+In  a smaller screen it has the hamburger icon that makes the text at the top disappaer and is replaced by the three lines.
 ## HOME PAGE
 ### logo
-my website's logo is a chain link that i put ahead of every heading (h2) on each of three pages <i class="fas fa-link">
- I chose it because the chain symbol emphasises the power of connecting different styles to achieve a healthy goal as i am going to illustrate later.
- Below is how the frst page looks like :
+my website's logo is a chain link that i put before of every heading (h2) on each of the three pages <i class="fas fa-link">
+ I chose it because the chain symbol symbolises strength.In this case, combining different styles to eleveate strength and conditioning  as i am going to illustrate later.
+ Below is how the first page looks like :
  ![Screenshot (317)](https://user-images.githubusercontent.com/83753891/131582824-183c48eb-3d4d-4249-9f39-b69cf4160e6c.png)
 
-1.The format is such that i have all the reasons for working out coming first  ,the quotes and social media where the user can click on whichever media link they are most comfortable with to see what we and our members are about come in sucessive order.
- 2.Initially i hade trouble finding text that would be visible against the dark background of the first picture. So eventually i decided to add  shadow effect with 0.6 opacity to bring out my white text. in my sign up page,i  had code from code istitute's love running tutorial website.I  was able to implement the shadow effect into all my three pages.
+1.The format is such that I have all the reasons for working out coming first ,then quotes and social media in that order.In the social media section the user can click on whichever media link they are most comfortable with to see what we and our members are about come in sucessive order.(it doesn't lead to actual pages but rather the websites the icons represent)
+ 2.Initially I hade trouble finding a shade of text that would be visible against the dark background of the dark forest background picture. So eventually i decided to add a  shadow effect with 0.6 opacity to bring out my white text. In my sign up page, I  used code similar to that of the code institute's love running tutorial website;specifically the sign up page.I  was able to implement the shadow effect into all my three pages.
  So at the the beginning of every container section from  the top of eah page , i added the class of sign-up, to maintain uniformity.
- 3.I added a hover effect alongside each reason listed for UX to entice the user while they slide their mouse across the screen.
+ 3.I added a hover effect alongside each  reason to work out listed ,for UX to entice the user while they slide their mouse across the screen.
  ### Quotes section
-1.I put in a hover feature as well that changes the font color to a red color to entice the casual reader to read the testimonies of people who have tried and succeded with this type of excercise.
- 2. For smaller screens, I used bootsrap-s responsive feature that altered the  visibility  of the two pictures on the quotes section so that there are no pictured for smaller hand helt devices and just text:below is an illustration:
+1.I put in a hover feature as well that changes the font color to a red color to entice the casual reader to read the testimonies of people who have tried and succeded with these type of excercises.
+ 2. For smaller screens, I used bootsrap's responsive feature that altered the  visibility  of the two pictures on the quotes section so that there are no pictured for smaller hand helt devices but  just text.Below is an illustration:
  ![Screenshot (319)](https://user-images.githubusercontent.com/83753891/131586031-82162eb0-8b85-44cb-9631-2b97b0e76862.png)
             
  ## Footer (Social media container )
@@ -31,9 +31,9 @@ my website's logo is a chain link that i put ahead of every heading (h2) on each
  ![Screenshot (320)](https://user-images.githubusercontent.com/83753891/131587223-24080d72-e47d-427f-bb4b-0eaa490da2e8.png)
  ### UX
 1. This page goes deeper into details of what an outdoor workout routine would entail.
- 2. I decided to divide them into 4 color coded(based on difficulty) sections alongside  icons of batteries at different percentage of usage to show how much intensity each program would entail.
- 3. These excercises are entirely dependet on body wait and the patience of repetition to  guide the reader to results.
- 4. the time that each person hasd available for working out everyday is so that each person works according to their ablity and availability .
+ 2. I decided to divide the routines into 4 color coded(based on difficulty) sections alongside  icons of batteries at different percentage of usage to show how much intensity each program would entail.
+ 3. These excercises are entirely dependent on body weight and the patience of repetition to  guide the reader to results.
+ 4. The time that each person has available for working out everyday is so that each person works according to their ablity and availability .
 5. to maximises on space , each of the color coded program has a dropdown list of challenges from bootstrap 5  that encapsulate the time spent on each  work out .
  ![Screenshot (321)](https://user-images.githubusercontent.com/83753891/131587311-636a6077-8f34-4214-b39d-9dca115feb75.png)
 UNORDERED LIST ( self explanatory)
