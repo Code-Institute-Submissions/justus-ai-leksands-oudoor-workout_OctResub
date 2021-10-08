@@ -8,20 +8,23 @@ Body weight is the primary excercise tool .
  Responsive website feature for smaller screens for a screen as asmall as an iphone X
  ![Screenshot (364)](https://user-images.githubusercontent.com/83753891/136631475-0164689c-524f-4e22-b8f9-63385f2ddc3b.png)
 
-##FEATURES
+## FEATURES
 ### NAVIGATION BAR
 I used the responsive bootstrap navigation bar because it allows for the menu bar to be reduced and expanded easily depending on the screen size being used .
-In  smaller screena, I incooperated the hamburger icon that makes the text at the top disappaer and is replaced by the three lines as i will ilustrate below in the home page image.
+In  smaller screena, I incooperated the hamburger icon that makes the text at the top disappear and is replaced by the three lines as is illuastrated above in the home page image.
 ###HOME PAGE
-### LOGO
+#### LOGO
 my website's logo is a chain link that i put before of every heading (h2) on each of the three pages <i class="fas fa-link">
 I chose it because the chain symbol symbolises strength.In this case, combining different styles to eleveate strength and conditioning  as i am going to illustrate later.
-
-1.The format is such that I have all the reasons for working out coming first ,then quotes and social media in that order.In the social media section the user can click on whichever media link they are most comfortable with to see what we and our members are about come in sucessive order.(it doesn't lead to actual pages but rather the websites the icons represent)
- 2.Initially I hade trouble finding a shade of text that would be visible against the dark background of the dark forest background picture. So eventually i decided to add a  shadow effect with 0.6 opacity to bring out my white text. In my sign up page, I  used code similar to that of the code institute's love running tutorial website;specifically the sign up page.I  was able to implement the shadow effect into all my three pages.
- So at the the beginning of every container section from  the top of eah page , i added the class of sign-up, to maintain uniformity.
- 3.I added a hover effect alongside each  reason to work out listed ,for UX to entice the user while they slide their mouse across the screen.
- ### Quotes section
+#### REASONS FOR WORKING OUT OUTSIDE
+1.The format is such that I have all the reasons for working out coming first ,then quotes and social media in that order.In the social media section, the user can click on whichever media link they are most comfortable with to see what we and our members are about .(The icons don't lead to actual pages but rather the websites the icons represent)
+ 
+ 2.Initially I hade trouble finding a shade of text that would be visible against the dark forest background picture. So eventually i decided to add a  shadow effect with 0.6 opacity to bring out my white text. In my sign up page, I  used code similar to that of the code institute's love running tutorial website;specifically the sign up page.I  was able to implement the shadow effect into all my three pages.
+ So at the the beginning of every container section from  the top of each page , I added the class of sign-up, to maintain uniformity.
+ 3.I added a hover effect alongside each reason to work out listed ,for UX to entice the user while they slide their mouse across the screen.
+ ![Screenshot (366)](https://user-images.githubusercontent.com/83753891/136632397-f0f25260-faa7-4cca-aaeb-ace1bd48ce43.png)
+ 
+ ####
 1.I put in a hover feature as well that changes the font color to a red color to entice the casual reader to read the testimonies of people who have tried and succeded with these type of excercises.
  2. For smaller screens, I used bootsrap's responsive feature that altered the  visibility  of the two pictures on the quotes section so that there are no pictured for smaller hand helt devices but  just text.Below is an illustration:
  ![Screenshot (319)](https://user-images.githubusercontent.com/83753891/131586031-82162eb0-8b85-44cb-9631-2b97b0e76862.png)
