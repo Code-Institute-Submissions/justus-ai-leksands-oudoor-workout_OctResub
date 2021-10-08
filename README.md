@@ -12,7 +12,7 @@ Body weight is the primary excercise tool .
 ### NAVIGATION BAR
 I used the responsive bootstrap navigation bar because it allows for the menu bar to be reduced and expanded easily depending on the screen size being used .
 In  smaller screena, I incooperated the hamburger icon that makes the text at the top disappear and is replaced by the three lines as is illuastrated above in the home page image.
-###HOME PAGE
+### HOME PAGE
 #### LOGO
 my website's logo is a chain link that i put before of every heading (h2) on each of the three pages <i class="fas fa-link">
 I chose it because the chain symbol symbolises strength.In this case, combining different styles to eleveate strength and conditioning  as i am going to illustrate later.
@@ -24,53 +24,34 @@ I chose it because the chain symbol symbolises strength.In this case, combining 
  3.I added a hover effect alongside each reason to work out listed ,for UX to entice the user while they slide their mouse across the screen.
  ![Screenshot (366)](https://user-images.githubusercontent.com/83753891/136632397-f0f25260-faa7-4cca-aaeb-ace1bd48ce43.png)
  
- ####
+ #### QUOTES
 1.I put in a hover feature as well that changes the font color to a red color to entice the casual reader to read the testimonies of people who have tried and succeded with these type of excercises.
  2. For smaller screens, I used bootsrap's responsive feature that altered the  visibility  of the two pictures on the quotes section so that there are no pictured for smaller hand helt devices but  just text.Below is an illustration:
- ![Screenshot (319)](https://user-images.githubusercontent.com/83753891/131586031-82162eb0-8b85-44cb-9631-2b97b0e76862.png)
-            
- ## Footer (Social media container )
+ ![Screenshot (368)](https://user-images.githubusercontent.com/83753891/136633353-b74521b8-8a89-4cc6-bbf5-f86f102adf68.png)
+![Screenshot (367)](https://user-images.githubusercontent.com/83753891/136633379-5638d2de-f70b-4941-9c72-48612e017e43.png)
+
+ #### SOCIAL MEDIA
  1.Social media links to
  faceebook, instagram , linkedin,pinterest ,twitter  and youtube.
  2.All media icons are clickable and open in a new page associated with the media icon.
+ 3.I also included a hover effect to enhance UX.
  
-# ABOUT  PAGE
- ![Screenshot (320)](https://user-images.githubusercontent.com/83753891/131587223-24080d72-e47d-427f-bb4b-0eaa490da2e8.png)
- ### UX
-1. This page goes deeper into details of what an outdoor workout routine would entail.
- 2. I decided to divide the routines into 4 color coded(based on difficulty) sections alongside  icons of batteries at different percentage of usage to show how much intensity each program would entail.
+### ABOUT PAGE
+ ![Screenshot (369)](https://user-images.githubusercontent.com/83753891/136634194-33a2ae53-fe3f-4cfe-901e-db6570a515df.png)
+ 
+1. This page goes deeper into details of what an outdoor workout routine would entail.Again this is regardless of location .With the entrace of the corna virus, alot of emphasis on keeping ones distance has made it such that anywhee you are is as good as you make it.
+ 2. I decided to divide the routines into 4 color coded(based on difficulty) sections with the help of battery icons at different percentage of usage to visualise how much intensity each program would entail.
  3. These excercises are entirely dependent on body weight and the patience of repetition to  guide the reader to results.
  4. The time that each person has available for working out everyday based on personal preference is for the user to decide and hence choose from the four categories.
-5. to maximises on space , each of the color coded program has a dropdown list of challenges from bootstrap 5  that shows what each workout should entail.
- ![Screenshot (321)](https://user-images.githubusercontent.com/83753891/131587311-636a6077-8f34-4214-b39d-9dca115feb75.png)
-UNORDERED LIST ( self explanatory)
- * 15 minutes routine| medium cardio |8 repetitions(quarter battery font awesome icon)
- 1. 15 secs pressupps and 15 seconds rest 
- 2. 15 secs sitsups and 15 secs rest 
- 3. 15 sec squats and 15 secs rest 
- 4. 15 seconds burpees and 15 seconds rest 
- 5. sprint home or slow jog home
- * 30 minute routine | 8- repetitons(halv battery font awesome icon)
- 1. 30 secs pressupps| 20 secods rest | 10 secs active rest(leg raises) 
- 2. 30 secs sitsups and 20 secs rest | 10 sec active rest (high knee taps)
- 3. 30 sec squats and 20 secs rest   | 10 secs active rest (press ups)
- 4. 30 secs burpees and 20 seconds rest |10 secs active rest (jumping  jacks)
- 5. slow jog  while taking the long route back home.
- * 1 hour routine | 8-10 repetitions
-  1. 30 secs pressupps and 30 secods rest | 30 secs active rest ( slow burpees/jump rope )(three quarters battery font awesome icon)
- 2. 30 secs sitsups and 30 secs rest | 30 secs  active rest (slow high kneee taps )
- 3. 30 sec squats and 30 secs rest | 30 secs active rest ( slow leg raises )
- 4. 30 seconds burpees and 30 seconds rest | 30 secs (slow jumping jacks )
- 5. cardio is optional at this point or a brisk walk home 
- 
- * Limitless time | intermitent 5 minute intense and 5 min rest workouts to satisfaction/( full battery font awesome icon)
- 1. Could better work as a group activity from two  to more people: In this case,variations 
- based on interactions can contribute to a creative work out ideas from others  
- UX. along with th forest green backgroud , i used bootstrap 5 to enhance the user experience with a dropdown button for each level of workout, Using the battery icon from font awesome . i tried to give the website vistors a visual of how much of your batteey will be worked on depending on which workout you choose.
- 
- ### responsive page
+5. to maximise on space , each of the color coded program has a dropdown list of challenges styled with the help of bootstrap 5 that shows what each workout should entail.
+ ![Screenshot (370)](https://user-images.githubusercontent.com/83753891/136634276-90c6d17a-475e-4b8d-8b44-4f0c3ab25fc1.png)
+![Screenshot (371)](https://user-images.githubusercontent.com/83753891/136634287-1f9e0258-bc32-45bd-ab1c-8a6265ba0da2.png)
+ ![Screenshot (372)](https://user-images.githubusercontent.com/83753891/136634301-1861fad2-fec6-42e6-ac11-03ec4cc351b0.png)
+![Screenshot (373)](https://user-images.githubusercontent.com/83753891/136634316-0d11f3ac-6444-4457-b12d-6c3e4b74984e.png)
+
  the page is also responsive to different screen sizes with the help of bootstrap.
- ![Screenshot (322)](https://user-images.githubusercontent.com/83753891/131587809-4dbb5b7b-cb35-44a1-992b-f25c555a251d.png)
+ ![Screenshot (374)](https://user-images.githubusercontent.com/83753891/136634467-b80b950b-2f53-4b7a-9aa1-6f0dfdbfa4d4.png)
+
  ### coding challenge 
  i tried to use flex but on closer inspection not all the text was displaying on the mobile phone screen, I had trouble trying to solve this bug .
  
