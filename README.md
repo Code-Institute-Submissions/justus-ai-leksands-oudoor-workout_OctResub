@@ -33,8 +33,8 @@ my website's logo is a chain link that i put before of every heading (h2) on eac
 1. This page goes deeper into details of what an outdoor workout routine would entail.
  2. I decided to divide the routines into 4 color coded(based on difficulty) sections alongside  icons of batteries at different percentage of usage to show how much intensity each program would entail.
  3. These excercises are entirely dependent on body weight and the patience of repetition to  guide the reader to results.
- 4. The time that each person has available for working out everyday is so that each person works according to their ablity and availability .
-5. to maximises on space , each of the color coded program has a dropdown list of challenges from bootstrap 5  that encapsulate the time spent on each  work out .
+ 4. The time that each person has available for working out everyday based on personal preference is for the user to decide and hence choose from the four categories.
+5. to maximises on space , each of the color coded program has a dropdown list of challenges from bootstrap 5  that shows what each workout should entail.
  ![Screenshot (321)](https://user-images.githubusercontent.com/83753891/131587311-636a6077-8f34-4214-b39d-9dca115feb75.png)
 UNORDERED LIST ( self explanatory)
  * 15 minutes routine| medium cardio |8 repetitions(quarter battery font awesome icon)
