@@ -49,13 +49,13 @@ I chose it because the chain symbol symbolises strength.In this case, combining 
  ![Screenshot (372)](https://user-images.githubusercontent.com/83753891/136634301-1861fad2-fec6-42e6-ac11-03ec4cc351b0.png)
 ![Screenshot (373)](https://user-images.githubusercontent.com/83753891/136634316-0d11f3ac-6444-4457-b12d-6c3e4b74984e.png)
 
- the page is also responsive to different screen sizes with the help of bootstrap.
+ The about page is also responsive to different screen sizes with the help of bootstrap.
  ![Screenshot (374)](https://user-images.githubusercontent.com/83753891/136634467-b80b950b-2f53-4b7a-9aa1-6f0dfdbfa4d4.png)
 
- ### coding challenge 
+ ####coding challenge 
  i tried to use flex but on closer inspection not all the text was displaying on the mobile phone screen, I had trouble trying to solve this bug .
  
-  # JOIN THE MOVEMENT
+  ### JOIN THE MOVEMENT PAGE
 ![Screenshot (324)](https://user-images.githubusercontent.com/83753891/131588066-2beef495-d94a-4d73-b272-9c06a0cdab89.png)
  The abave is a screenshot of my responsive join webpage. As metioned earlier,the code is inspired by the love running website from the tutorials that i thought were very effective  in getting one to join.
  The form is responsive and can only be entered succecfuly if the first name, second name and email are ALL entered .
