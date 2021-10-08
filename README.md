@@ -4,15 +4,18 @@ The goal is to stay active outside the traditional methods.
 Leksand is a found in the conuntryside in Sweden.It is very well known for its green forests, trails and perfect outdoors hence the name.(I cuurenty live there).
 The target will be the whole body for each workout in a playful and results evoking new style called Hiit(Hight Intensity Interval Training) .All these workouts can be done in the comfort of your home if  the weather doesn't allow but better yet outdoors.
 Body weight is the primary excercise tool .
-# Navigation bar
+ ![Screenshot (362)](https://user-images.githubusercontent.com/83753891/136630706-94b7d235-df01-4775-b18e-e4d3c9ee5cd2.png)
+ Responsive website feature for smaller screens for a screen as asmall as an iphone X
+ ![Screenshot (364)](https://user-images.githubusercontent.com/83753891/136631475-0164689c-524f-4e22-b8f9-63385f2ddc3b.png)
+
+##FEATURES
+### NAVIGATION BAR
 I used the responsive bootstrap navigation bar because it allows for the menu bar to be reduced and expanded easily depending on the screen size being used .
 In  smaller screena, I incooperated the hamburger icon that makes the text at the top disappaer and is replaced by the three lines as i will ilustrate below in the home page image.
-## HOME PAGE
-### logo
+###HOME PAGE
+### LOGO
 my website's logo is a chain link that i put before of every heading (h2) on each of the three pages <i class="fas fa-link">
 I chose it because the chain symbol symbolises strength.In this case, combining different styles to eleveate strength and conditioning  as i am going to illustrate later.
-Below is how the first page looks like :
- ![Screenshot (362)](https://user-images.githubusercontent.com/83753891/136630706-94b7d235-df01-4775-b18e-e4d3c9ee5cd2.png)
 
 1.The format is such that I have all the reasons for working out coming first ,then quotes and social media in that order.In the social media section the user can click on whichever media link they are most comfortable with to see what we and our members are about come in sucessive order.(it doesn't lead to actual pages but rather the websites the icons represent)
  2.Initially I hade trouble finding a shade of text that would be visible against the dark background of the dark forest background picture. So eventually i decided to add a  shadow effect with 0.6 opacity to bring out my white text. In my sign up page, I  used code similar to that of the code institute's love running tutorial website;specifically the sign up page.I  was able to implement the shadow effect into all my three pages.
