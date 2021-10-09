@@ -57,36 +57,43 @@ I chose it because the chain symbol symbolises strength.In this case, combining 
  
   ### JOIN THE MOVEMENT PAGE
 ![Screenshot (324)](https://user-images.githubusercontent.com/83753891/131588066-2beef495-d94a-4d73-b272-9c06a0cdab89.png)
- The abave is a screenshot of my responsive join webpage. As metioned earlier,the code is inspired by the love running website from the tutorials that i thought were very effective  in getting one to join.
- The form is responsive and can only be entered succecfuly if the first name, second name and email are ALL entered .
+ The abave is a screenshot of my responsive join webpage. As metioned earlier,the code is inspired by the love running website from the tutorials that i thought were very effective  in getting one to join.The join age is essential to get mor people to waant to be a apart of active lifestyle.
+ The form is responsive and can only be entered succecfully if the first name, second name and email are ALL entered .
 ![Screenshot (323)](https://user-images.githubusercontent.com/83753891/131588088-0a04345b-8981-46c4-80aa-652548f01dd0.png)
- above the screenshot of how the join pagw would look like ina mobuíle devce .
+ above the screenshot of how the join pag would look like ina mobile device .
+ 
+ ####  Features left to implement 
+ 1.In the future i would like to add animation to the chain link so that it stretches to enhance user experience and to strengthen the presence of my logo.
+ 2. To have more workout routines to include different interest groups for those who dont like the outdoors or just body weight challenges.
 
+ #### coding challenge 
+ i tried to use flex but on closer inspection not all the text was displaying on the mobile phone screen, I had trouble trying to solve this bug .
+ 
+   #VALIDATOR TESTING
+   I used the windoes  dev tools to check the performance of the website . No issues were detected 
+ ![Screenshot (375)](https://user-images.githubusercontent.com/83753891/136636483-5476267c-1588-4fc8-b5f8-e14c3a928ae1.png)
 
-   #VALIDATING TESTING
-   ### html TESTED THROW W3C VALIDATOR
-   tested throgh wrc validator and saw that i had to add the en language to the top of the tml link.
+  
    
-   ###CSSS TESTING THOUGH JUGSAW VALIDATOR
+  
    ##UNFIXED BUGS
+ None
    
    #DEPLOYMENT
    This project was developed using gitpod. in the hosting platform of github
-   to eploy this page to github pages, the following steps were taken:
+   to deploy this page to github pages, the following steps were taken:
    1.log into github,fom the list of the repositories, select https://orange-capybara-2xrrdpq3.ws-eu08.gitpod.io/
    2.from the menu item at the top of the page press settings,
-   3.scroll down to the guthub pages section
+   3.scroll down to the github pages section
    4.under source, click the dropdown menu labelled none and select master banch.
-   5.on selecting master branch, the page is automatically refreshed m the website is now deployed
-   6.scroll back down to github pages to retriee the link to the deployed pages.
+   5.on selecting master branch, the page is automatically refreshed and the website is now deployed
+   6.scroll back down to github pages to retrieve the link to the deployed pages.
   
-
- 
  #CREDITS
- The structure of the webiste was inspired by the love runniing website created through code institute's tutorials.this is becuase my project targets the smame topic of working out .
+ The structure of the webiste was inspired by the love runniing website created through code institute's tutorials.This is becuase my project targets a similar  topic of working out .
  The background image  Photo by <a href="https://unsplash.com/@imatbagjagumilar?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Imat Bagja Gumilar</a> on <a href="https://unsplash.com/s/photos/forest?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
-Instructions on how to implement form validation on the Sign Up page was taken from the love running website from code institutes instrctionals tutorial, i thought it matched perfeclty whith what my qebsite inteneded to do.
+Instructions and imlemtation of the join the movement  page were taken from the love running website from code institutes instructionals tutorial. The target demographic of the highly popular excercise theme aligns with my intentions for this website.
 
 
 .
